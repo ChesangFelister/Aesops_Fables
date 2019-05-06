@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TheFoxWithoutaTail">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="It happened that a Fox caught its tail in a trap, and in struggling to release himself lost all of it but the stump.
+
+At first he was ashamed to show himself among his fellow foxes.
+
+But at last he determined to put a bolder face upon his misfortune, and summoned all the foxes to a general meeting to consider a proposal which he had to place before them.
+
+When they had assembled together the Fox proposed that they should all do away with their tails.
+
+He pointed out how inconvenient a tail was when they were pursued by their enemies, the dogs; how much it was in the way when they desired to sit down and hold a friendly conversation with one another.
+
+He failed to see any advantage in carrying about such a useless encumbrance.
+
+That is all very well, said one of the older foxes but I do not think you would have recommended us to dispense with our chief ornament if you had not happened to lose it yourself.
+
+        "/>
+
+
+
+    </RelativeLayout>
+
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@android:drawable/ic_dialog_email" />
+
+</android.support.design.widget.CoordinatorLayout>

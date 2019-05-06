@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Aesops Fables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_androcles_an_aesops_fable">Androcles An Aesops Fable</string>
+    <string name="title_activity_the_assandthe_charger_an_aesops_fable">
+        TheAssandtheChargerAnAesopsFable
+    </string>
+    <string name="title_activity_the_mischievous_dog">The Mischievous Dog</string>
+    <string name="title_activity_bellingthe_cat">Belling the Cat</string>
+    <string name="title_activity_the_fox_withouta_tail">The Fox Without a Tail</string>
+    <string name="title_activity_the_two_frogs">The Two Frogs</string>
+    <string name="title_activity_the_sick_stag">The Sick Stag</string>
+    <string name="title_activity_the_vain_jackdaw">The Vain Jackdaw</string>
+    <string name="title_activity_the_fisher">The Fisher</string>
+    <string name="title_activity_the_serpentandthe_file">The Serpent and the File</string>
+    <string name="title_activity_the_cat_maiden">The Cat Maiden</string>
+
+    <string name="fable_1_text">A slave named Androcles once escaped from his master and fled to the forest. As he was wandering about there he came upon a Lion lying down moaning and groaning. At first he turned to flee, but finding that the Lion did not pursue him, he turned back and went up to him.\n\n
+
+As he came near, the Lion put out his paw, which was all swollen and bleeding, and Androcles found that a huge thorn had got into it, and was causing all the pain. He pulled out the thorn and bound up the paw of the Lion, who was soon able to rise and lick the hand of Androcles like a dog. Then the Lion took Androcles to his cave, and every day used to bring him meat from which to live.\n\n
+
+But shortly afterwards both Androcles and the Lion were captured, and the slave was sentenced to be thrown to the Lion, after the latter had been kept without food for several days. The Emperor and all his Court came to see the spectacle, and Androcles was led out into the middle of the arena. Soon the Lion was let loose from his den, and rushed bounding and roaring towards his victim.\n\n
+
+But as soon as he came near to Androcles he recognised his friend, and fawned upon him, and licked his hands like a friendly dog. The Emperor, surprised at this, summoned Androcles to him, who told him the whole story. Whereupon the slave was pardoned and freed, and the Lion let loose to his native forest.</string>
+
+
+    <string name="fable_2_text">An Ass congratulated a Horse on being so ungrudgingly and carefully provided for, while he himself had scarcely enough to eat, nor even that without hard work.\n]n
+
+
+But when war broke out, the heavy armed soldier mounted the Horse, and rushed into the very midst of the enemy, and the Horse, being wounded, fell dead on the battle-field.\n\n
+
+Then the Ass, seeing all these things, changed his mind, and commiserated the Horse, saying: "How much more fortunate am I than a charger. I can remain at home in safety while he is exposed to all the perils of war."</string>
+    <string name="fable_3_text">
+    A Dog used to run up quietly to the heels of those he met, and to bite them without notice.\n\n
+
+    His master sometimes suspended a bell about his neck, that he might give notice of his presence wherever he went, and sometimes he fastened a chain about his neck, to which was attached a heavy clog, so that he could not be so quick at biting people\'s heels.\n\n
+
+    The Dog grew proud of his bell and clog, and went with them all over the market-place.\n\n
+
+    An old hound said to him: "Why do you make such an exhibition of yourself? That bell and clog that you carry are not, believe me, orders of merit, but, on the contrary, marks of disgrace, a public notice to all men to avoid you as an ill-mannered dog."</string>
+</resources>
